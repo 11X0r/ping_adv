@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+
+# IDE and editor files
+.history/
+.vscode/
+.idea/
+*.swp
+*~
